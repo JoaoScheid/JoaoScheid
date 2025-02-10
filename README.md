@@ -21,14 +21,15 @@
     <img title="Java" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img title="Testes" alt="Testes" src="https://img.shields.io/badge/Testes-000000?style=for-the-badge&logo=junit&logoColor=white" />
+      <img title="Testes" alt="Testes" src="https://img.shields.io/badge/Testes-000000?style=for-the-badge&logo=junit&logoColor=white" />
   </div>
 </div>
 
 
 ## 📖 Sobre mim:
 
-- 🌱 Neste curso aprendi/estou aprendendo sobre Backend com JAVA / Springboot / Node.js / MySql e Frontend com JavaScript / Next / Tailwind
 - 🎓 Sou formado no ensino médio integrado com desenvolvimento de sistemas da Escola S. 
 - 🎓 Cursando CentroWEG programador de sistemas da informação.
+- 🌱 Neste curso aprendi/estou aprendendo sobre Backend com JAVA / Springboot / Node.js / MySql e Frontend com JavaScript / Next / Tailwind
 
 
