@@ -19,9 +19,6 @@
     <img title="Springboot" alt="Springboot" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
     <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img title="Java" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img title="Testes" alt="Testes" src="https://img.shields.io/badge/Testes-000000?style=for-the-badge&logo=junit&logoColor=white" />
-      <img title="Testes" alt="Testes" src="https://img.shields.io/badge/Testes-000000?style=for-the-badge&logo=junit&logoColor=white" />
   </div>
 </div>
 
