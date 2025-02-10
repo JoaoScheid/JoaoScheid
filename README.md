@@ -2,6 +2,9 @@
 
 
 <div >
+      <a href="https://instagram.com/_joaoscheid">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoScheid&theme=tokyonight" alt="GitHub Streak" width="300"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheid&layout=pie&theme=tokyonight" alt="Top Langs">
 </div>
@@ -31,5 +34,5 @@
 - 🎓 Sou formado no ensino médio integrado com desenvolvimento de sistemas da Escola S. 
 - 🎓 Cursando CentroWEG programador de sistemas da informação.
 - 🌱 Neste curso aprendi/estou aprendendo sobre Backend com JAVA / Springboot / Node.js / MySql e Frontend com JavaScript / Next / Tailwind
-
+- 🌱 Vou começar a cursar a faculdade de engenharia de software a partir da metade do ano.
 
