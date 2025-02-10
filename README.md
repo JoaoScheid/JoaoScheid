@@ -2,7 +2,8 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoScheid&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=viniciusmurara&theme=tokyonight" alt="GitHub Streak" width="400"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheid&layout=pie&theme=tokyonight" alt="Top Langs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheid&layout=compact&card_width=300&theme=dark" />
 </div>
 
