@@ -1,8 +1,8 @@
 ## <img height="40" src="[https://tenor.com/view/dev-gif-23299500](https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif)"/>Olá! Sou João Pedro Scheid.
 
 
-<div align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoScheid&theme=tokyonight" alt="GitHub Streak" width="400">
+<div >
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoScheid&theme=tokyonight" alt="GitHub Streak" width="300"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheid&layout=pie&theme=tokyonight" alt="Top Langs">
 </div>
 
